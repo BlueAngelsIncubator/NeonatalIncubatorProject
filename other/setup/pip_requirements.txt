@@ -1,0 +1,6 @@
+pillow *--upgrade
+pytz
+adafruit-circuitpython-lis3dh 
+adafruit-circuitpython-tmp006
+adafruit-circuitpython-dht
+adafruit-circuitpython-ads1x15

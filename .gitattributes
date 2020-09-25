@@ -1,0 +1,2 @@
+docs/deliverables/FinalPresentationVideo_BlueAngels.mp4 filter=lfs diff=lfs merge=lfs -text
+docs/other_files.zip filter=lfs diff=lfs merge=lfs -text
